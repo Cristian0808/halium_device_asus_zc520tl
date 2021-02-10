@@ -3,6 +3,8 @@ TARGET_SPECIFIC_HEADER_PATH := device/asus/zc520tl/include
 
 TARGET_BOARD_PLATFORM := mt6737m
 
+
+
 FORCE_32_BIT := false
 
 # Architecture

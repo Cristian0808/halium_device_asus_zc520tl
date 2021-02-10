@@ -31,3 +31,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rootdir/init.mt6735.modem.rc:root/init.mt6735.modem.rc \
     $(LOCAL_PATH)/rootdir/init.mt6735.conn.rc:root/init.mt6735.conn.rc   \
 
+PRODUCT_PACKAGES += \
+       wpa_supplicant \
+       hostapd \
